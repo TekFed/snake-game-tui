@@ -4,6 +4,12 @@ A modern, sleek, and responsive implementation of the classic Snake game right i
 
 ---
 
+## 🎮 Demo
+
+https://github.com/user-attachments/assets/aefcbdbb-4a9d-4680-a163-9b59642eff7a
+
+---
+
 ## 🚀 Features
 
 - **Steady, Balanced Gameplay:** Optimized frame rates provide a smooth, retro arcade feel.
