@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+snake_highscore.json
+snake.py
