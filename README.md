@@ -65,4 +65,3 @@ STEADY_SPEED = 0.19             # Lower numbers = Faster gameplay
 ```
 ## 📄 License
 This project is open-source and available under the MIT License.
-```
